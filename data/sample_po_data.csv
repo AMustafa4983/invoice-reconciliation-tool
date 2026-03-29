@@ -1,0 +1,193 @@
+po_number,item_code,item_name,quantity_ordered,unit_price,supplier_name,po_date,total_value
+PO-0001,ITM-101,Wireless Mouse Logitech,250,45.0,ElectroWare Trading,2026-03-05,11250.0
+PO-0001,ITM-102,USB-C Cable 2m,200,12.5,ElectroWare Trading,2026-02-19,2500.0
+PO-0001,ITM-106,Laptop Cooling Pad,100,67.0,Digital Solutions FZE,2026-03-08,6700.0
+PO-0001,ITM-104,Wireless Keyboard,50,89.0,Digital Solutions FZE,2026-03-07,4450.0
+PO-0002,ITM-102,USB-C Cable 2m,250,12.5,TechSupply LLC,2026-02-18,3125.0
+PO-0002,ITM-106,Laptop Cooling Pad,100,67.0,Digital Solutions FZE,2026-03-04,6700.0
+PO-0002,ITM-105,Monitor Stand Adjustable,200,145.0,ElectroWare Trading,2026-03-20,29000.0
+PO-0002,ITM-114,Cable Organizer Set,100,15.0,TechSupply LLC,2026-03-27,1500.0
+PO-0002,ITM-113,Phone Case Universal,200,18.0,Digital Solutions FZE,2026-03-22,3600.0
+PO-0003,ITM-115,Desk Lamp LED,100,112.0,ElectroWare Trading,2026-02-13,11200.0
+PO-0003,ITM-112,Screen Protector Pack,100,22.0,ElectroWare Trading,2026-02-21,2200.0
+PO-0003,ITM-105,Monitor Stand Adjustable,500,145.0,Office Depot UAE,2026-03-14,72500.0
+PO-0003,ITM-109,Webcam HD 1080p,500,156.0,Office Depot UAE,2026-02-17,78000.0
+PO-0004,ITM-114,Cable Organizer Set,50,15.0,Digital Solutions FZE,2026-03-21,750.0
+PO-0004,ITM-104,Wireless Keyboard,150,89.0,Office Depot UAE,2026-03-12,13350.0
+PO-0004,ITM-103,HDMI Cable 3m,150,28.0,Office Depot UAE,2026-02-24,4200.0
+PO-0004,ITM-106,Laptop Cooling Pad,150,67.0,TechSupply LLC,2026-02-15,10050.0
+PO-0004,ITM-101,Wireless Mouse Logitech,100,45.0,TechSupply LLC,2026-03-01,4500.0
+PO-0005,ITM-113,Phone Case Universal,250,18.0,Office Depot UAE,2026-03-15,4500.0
+PO-0006,ITM-113,Phone Case Universal,250,18.0,Office Depot UAE,2026-02-14,4500.0
+PO-0006,ITM-114,Cable Organizer Set,250,15.0,Digital Solutions FZE,2026-03-16,3750.0
+PO-0006,ITM-102,USB-C Cable 2m,150,12.5,Office Depot UAE,2026-03-07,1875.0
+PO-0007,ITM-111,Power Bank 20000mAh,500,95.0,TechSupply LLC,2026-03-28,47500.0
+PO-0007,ITM-112,Screen Protector Pack,50,22.0,Office Depot UAE,2026-03-16,1100.0
+PO-0007,ITM-101,Wireless Mouse Logitech,50,45.0,Office Depot UAE,2026-02-18,2250.0
+PO-0007,ITM-107,External Hard Drive 1TB,500,189.0,Digital Solutions FZE,2026-03-02,94500.0
+PO-0008,ITM-112,Screen Protector Pack,200,22.0,Digital Solutions FZE,2026-02-18,4400.0
+PO-0009,ITM-107,External Hard Drive 1TB,150,189.0,ElectroWare Trading,2026-03-27,28350.0
+PO-0009,ITM-115,Desk Lamp LED,250,112.0,Digital Solutions FZE,2026-03-03,28000.0
+PO-0010,ITM-110,Headset with Mic,200,78.0,Office Depot UAE,2026-03-23,15600.0
+PO-0010,ITM-115,Desk Lamp LED,250,112.0,Office Depot UAE,2026-03-09,28000.0
+PO-0010,ITM-112,Screen Protector Pack,200,22.0,Office Depot UAE,2026-02-21,4400.0
+PO-0010,ITM-109,Webcam HD 1080p,150,156.0,ElectroWare Trading,2026-03-26,23400.0
+PO-0011,ITM-106,Laptop Cooling Pad,500,67.0,ElectroWare Trading,2026-02-22,33500.0
+PO-0011,ITM-110,Headset with Mic,200,78.0,Digital Solutions FZE,2026-03-03,15600.0
+PO-0011,ITM-105,Monitor Stand Adjustable,50,145.0,Digital Solutions FZE,2026-03-27,7250.0
+PO-0012,ITM-108,USB Hub 4-Port,50,34.0,Digital Solutions FZE,2026-03-18,1700.0
+PO-0013,ITM-107,External Hard Drive 1TB,100,189.0,ElectroWare Trading,2026-02-22,18900.0
+PO-0014,ITM-106,Laptop Cooling Pad,200,67.0,Office Depot UAE,2026-03-07,13400.0
+PO-0014,ITM-102,USB-C Cable 2m,500,12.5,ElectroWare Trading,2026-02-27,6250.0
+PO-0014,ITM-110,Headset with Mic,500,78.0,ElectroWare Trading,2026-03-21,39000.0
+PO-0014,ITM-115,Desk Lamp LED,150,112.0,Office Depot UAE,2026-02-23,16800.0
+PO-0014,ITM-111,Power Bank 20000mAh,250,95.0,ElectroWare Trading,2026-02-24,23750.0
+PO-0015,ITM-109,Webcam HD 1080p,500,156.0,TechSupply LLC,2026-03-23,78000.0
+PO-0015,ITM-106,Laptop Cooling Pad,150,67.0,Digital Solutions FZE,2026-02-16,10050.0
+PO-0015,ITM-102,USB-C Cable 2m,250,12.5,Digital Solutions FZE,2026-02-28,3125.0
+PO-0015,ITM-113,Phone Case Universal,50,18.0,ElectroWare Trading,2026-02-26,900.0
+PO-0016,ITM-106,Laptop Cooling Pad,150,67.0,Digital Solutions FZE,2026-03-05,10050.0
+PO-0016,ITM-113,Phone Case Universal,100,18.0,Digital Solutions FZE,2026-03-07,1800.0
+PO-0016,ITM-115,Desk Lamp LED,100,112.0,Office Depot UAE,2026-03-02,11200.0
+PO-0017,ITM-104,Wireless Keyboard,100,89.0,TechSupply LLC,2026-03-05,8900.0
+PO-0017,ITM-111,Power Bank 20000mAh,250,95.0,Digital Solutions FZE,2026-03-22,23750.0
+PO-0018,ITM-105,Monitor Stand Adjustable,500,145.0,Office Depot UAE,2026-03-04,72500.0
+PO-0019,ITM-109,Webcam HD 1080p,250,156.0,Digital Solutions FZE,2026-02-13,39000.0
+PO-0019,ITM-105,Monitor Stand Adjustable,200,145.0,TechSupply LLC,2026-02-18,29000.0
+PO-0020,ITM-112,Screen Protector Pack,50,22.0,Digital Solutions FZE,2026-03-10,1100.0
+PO-0020,ITM-101,Wireless Mouse Logitech,200,45.0,ElectroWare Trading,2026-03-03,9000.0
+PO-0020,ITM-111,Power Bank 20000mAh,250,95.0,ElectroWare Trading,2026-03-06,23750.0
+PO-0020,ITM-115,Desk Lamp LED,50,112.0,Digital Solutions FZE,2026-03-28,5600.0
+PO-0021,ITM-115,Desk Lamp LED,100,112.0,Digital Solutions FZE,2026-02-20,11200.0
+PO-0021,ITM-113,Phone Case Universal,500,18.0,TechSupply LLC,2026-02-28,9000.0
+PO-0022,ITM-106,Laptop Cooling Pad,500,67.0,TechSupply LLC,2026-02-21,33500.0
+PO-0022,ITM-108,USB Hub 4-Port,100,34.0,Digital Solutions FZE,2026-02-26,3400.0
+PO-0022,ITM-102,USB-C Cable 2m,100,12.5,ElectroWare Trading,2026-03-10,1250.0
+PO-0022,ITM-103,HDMI Cable 3m,100,28.0,Digital Solutions FZE,2026-03-28,2800.0
+PO-0023,ITM-106,Laptop Cooling Pad,250,67.0,Office Depot UAE,2026-02-14,16750.0
+PO-0023,ITM-105,Monitor Stand Adjustable,250,145.0,Digital Solutions FZE,2026-03-26,36250.0
+PO-0023,ITM-110,Headset with Mic,50,78.0,TechSupply LLC,2026-02-17,3900.0
+PO-0023,ITM-112,Screen Protector Pack,100,22.0,Office Depot UAE,2026-02-13,2200.0
+PO-0023,ITM-103,HDMI Cable 3m,250,28.0,TechSupply LLC,2026-03-17,7000.0
+PO-0024,ITM-112,Screen Protector Pack,50,22.0,Office Depot UAE,2026-03-25,1100.0
+PO-0024,ITM-110,Headset with Mic,100,78.0,TechSupply LLC,2026-03-18,7800.0
+PO-0025,ITM-111,Power Bank 20000mAh,500,95.0,Digital Solutions FZE,2026-02-20,47500.0
+PO-0025,ITM-106,Laptop Cooling Pad,200,67.0,TechSupply LLC,2026-03-16,13400.0
+PO-0025,ITM-102,USB-C Cable 2m,50,12.5,Office Depot UAE,2026-02-16,625.0
+PO-0025,ITM-110,Headset with Mic,500,78.0,TechSupply LLC,2026-03-09,39000.0
+PO-0025,ITM-107,External Hard Drive 1TB,50,189.0,ElectroWare Trading,2026-03-16,9450.0
+PO-0026,ITM-105,Monitor Stand Adjustable,250,145.0,TechSupply LLC,2026-02-22,36250.0
+PO-0026,ITM-114,Cable Organizer Set,200,15.0,TechSupply LLC,2026-03-08,3000.0
+PO-0026,ITM-102,USB-C Cable 2m,200,12.5,TechSupply LLC,2026-03-06,2500.0
+PO-0027,ITM-104,Wireless Keyboard,200,89.0,TechSupply LLC,2026-03-19,17800.0
+PO-0028,ITM-105,Monitor Stand Adjustable,500,145.0,Office Depot UAE,2026-03-21,72500.0
+PO-0028,ITM-111,Power Bank 20000mAh,250,95.0,TechSupply LLC,2026-03-07,23750.0
+PO-0029,ITM-108,USB Hub 4-Port,500,34.0,Office Depot UAE,2026-03-16,17000.0
+PO-0029,ITM-115,Desk Lamp LED,100,112.0,Digital Solutions FZE,2026-03-09,11200.0
+PO-0029,ITM-114,Cable Organizer Set,200,15.0,Digital Solutions FZE,2026-02-16,3000.0
+PO-0029,ITM-102,USB-C Cable 2m,50,12.5,Office Depot UAE,2026-03-16,625.0
+PO-0030,ITM-103,HDMI Cable 3m,250,28.0,TechSupply LLC,2026-03-08,7000.0
+PO-0030,ITM-107,External Hard Drive 1TB,500,189.0,TechSupply LLC,2026-03-18,94500.0
+PO-0030,ITM-111,Power Bank 20000mAh,200,95.0,TechSupply LLC,2026-02-21,19000.0
+PO-0030,ITM-104,Wireless Keyboard,150,89.0,Office Depot UAE,2026-03-09,13350.0
+PO-0031,ITM-114,Cable Organizer Set,500,15.0,Digital Solutions FZE,2026-03-05,7500.0
+PO-0032,ITM-106,Laptop Cooling Pad,200,67.0,Digital Solutions FZE,2026-03-02,13400.0
+PO-0032,ITM-103,HDMI Cable 3m,500,28.0,Office Depot UAE,2026-03-12,14000.0
+PO-0032,ITM-101,Wireless Mouse Logitech,50,45.0,TechSupply LLC,2026-03-09,2250.0
+PO-0032,ITM-115,Desk Lamp LED,250,112.0,Digital Solutions FZE,2026-02-28,28000.0
+PO-0033,ITM-108,USB Hub 4-Port,150,34.0,TechSupply LLC,2026-03-24,5100.0
+PO-0033,ITM-110,Headset with Mic,50,78.0,ElectroWare Trading,2026-03-28,3900.0
+PO-0033,ITM-109,Webcam HD 1080p,100,156.0,Digital Solutions FZE,2026-03-18,15600.0
+PO-0033,ITM-104,Wireless Keyboard,250,89.0,ElectroWare Trading,2026-03-04,22250.0
+PO-0033,ITM-112,Screen Protector Pack,500,22.0,Office Depot UAE,2026-03-02,11000.0
+PO-0034,ITM-115,Desk Lamp LED,250,112.0,ElectroWare Trading,2026-03-26,28000.0
+PO-0035,ITM-104,Wireless Keyboard,250,89.0,TechSupply LLC,2026-03-25,22250.0
+PO-0035,ITM-109,Webcam HD 1080p,500,156.0,TechSupply LLC,2026-02-17,78000.0
+PO-0035,ITM-115,Desk Lamp LED,100,112.0,Digital Solutions FZE,2026-02-26,11200.0
+PO-0035,ITM-102,USB-C Cable 2m,100,12.5,ElectroWare Trading,2026-02-23,1250.0
+PO-0035,ITM-108,USB Hub 4-Port,500,34.0,ElectroWare Trading,2026-03-26,17000.0
+PO-0036,ITM-103,HDMI Cable 3m,150,28.0,Office Depot UAE,2026-02-19,4200.0
+PO-0036,ITM-110,Headset with Mic,200,78.0,ElectroWare Trading,2026-02-19,15600.0
+PO-0036,ITM-104,Wireless Keyboard,100,89.0,ElectroWare Trading,2026-03-11,8900.0
+PO-0037,ITM-105,Monitor Stand Adjustable,250,145.0,Digital Solutions FZE,2026-03-19,36250.0
+PO-0037,ITM-112,Screen Protector Pack,50,22.0,ElectroWare Trading,2026-03-12,1100.0
+PO-0037,ITM-110,Headset with Mic,200,78.0,Digital Solutions FZE,2026-03-05,15600.0
+PO-0038,ITM-112,Screen Protector Pack,150,22.0,Office Depot UAE,2026-02-28,3300.0
+PO-0038,ITM-114,Cable Organizer Set,100,15.0,TechSupply LLC,2026-03-10,1500.0
+PO-0038,ITM-101,Wireless Mouse Logitech,250,45.0,TechSupply LLC,2026-03-11,11250.0
+PO-0038,ITM-113,Phone Case Universal,200,18.0,ElectroWare Trading,2026-03-07,3600.0
+PO-0038,ITM-104,Wireless Keyboard,250,89.0,ElectroWare Trading,2026-03-28,22250.0
+PO-0039,ITM-108,USB Hub 4-Port,100,34.0,Digital Solutions FZE,2026-03-28,3400.0
+PO-0039,ITM-104,Wireless Keyboard,50,89.0,Office Depot UAE,2026-03-14,4450.0
+PO-0039,ITM-106,Laptop Cooling Pad,500,67.0,ElectroWare Trading,2026-03-03,33500.0
+PO-0039,ITM-105,Monitor Stand Adjustable,200,145.0,Office Depot UAE,2026-03-15,29000.0
+PO-0039,ITM-103,HDMI Cable 3m,100,28.0,TechSupply LLC,2026-03-03,2800.0
+PO-0040,ITM-111,Power Bank 20000mAh,50,95.0,TechSupply LLC,2026-02-18,4750.0
+PO-0040,ITM-109,Webcam HD 1080p,500,156.0,ElectroWare Trading,2026-02-13,78000.0
+PO-0040,ITM-110,Headset with Mic,50,78.0,TechSupply LLC,2026-03-16,3900.0
+PO-0041,ITM-105,Monitor Stand Adjustable,50,145.0,TechSupply LLC,2026-03-23,7250.0
+PO-0041,ITM-108,USB Hub 4-Port,200,34.0,ElectroWare Trading,2026-02-23,6800.0
+PO-0041,ITM-112,Screen Protector Pack,150,22.0,Digital Solutions FZE,2026-03-23,3300.0
+PO-0041,ITM-111,Power Bank 20000mAh,250,95.0,TechSupply LLC,2026-02-24,23750.0
+PO-0042,ITM-110,Headset with Mic,500,78.0,ElectroWare Trading,2026-03-09,39000.0
+PO-0042,ITM-102,USB-C Cable 2m,200,12.5,Office Depot UAE,2026-03-25,2500.0
+PO-0042,ITM-109,Webcam HD 1080p,500,156.0,ElectroWare Trading,2026-02-27,78000.0
+PO-0042,ITM-114,Cable Organizer Set,500,15.0,Office Depot UAE,2026-03-27,7500.0
+PO-0042,ITM-112,Screen Protector Pack,150,22.0,Digital Solutions FZE,2026-03-03,3300.0
+PO-0043,ITM-102,USB-C Cable 2m,100,12.5,ElectroWare Trading,2026-02-19,1250.0
+PO-0043,ITM-115,Desk Lamp LED,250,112.0,ElectroWare Trading,2026-03-18,28000.0
+PO-0043,ITM-108,USB Hub 4-Port,200,34.0,TechSupply LLC,2026-02-14,6800.0
+PO-0044,ITM-115,Desk Lamp LED,50,112.0,Office Depot UAE,2026-02-20,5600.0
+PO-0044,ITM-103,HDMI Cable 3m,50,28.0,TechSupply LLC,2026-03-20,1400.0
+PO-0044,ITM-114,Cable Organizer Set,150,15.0,Office Depot UAE,2026-03-05,2250.0
+PO-0045,ITM-106,Laptop Cooling Pad,500,67.0,Digital Solutions FZE,2026-02-28,33500.0
+PO-0045,ITM-107,External Hard Drive 1TB,150,189.0,TechSupply LLC,2026-02-20,28350.0
+PO-0045,ITM-110,Headset with Mic,500,78.0,Digital Solutions FZE,2026-02-27,39000.0
+PO-0046,ITM-107,External Hard Drive 1TB,500,189.0,Digital Solutions FZE,2026-02-19,94500.0
+PO-0046,ITM-109,Webcam HD 1080p,50,156.0,Office Depot UAE,2026-03-14,7800.0
+PO-0046,ITM-112,Screen Protector Pack,50,22.0,TechSupply LLC,2026-03-12,1100.0
+PO-0047,ITM-101,Wireless Mouse Logitech,100,45.0,Digital Solutions FZE,2026-03-14,4500.0
+PO-0048,ITM-112,Screen Protector Pack,200,22.0,ElectroWare Trading,2026-03-27,4400.0
+PO-0048,ITM-102,USB-C Cable 2m,100,12.5,TechSupply LLC,2026-03-19,1250.0
+PO-0048,ITM-108,USB Hub 4-Port,50,34.0,ElectroWare Trading,2026-02-19,1700.0
+PO-0048,ITM-110,Headset with Mic,250,78.0,Office Depot UAE,2026-02-21,19500.0
+PO-0048,ITM-103,HDMI Cable 3m,250,28.0,Digital Solutions FZE,2026-03-14,7000.0
+PO-0049,ITM-107,External Hard Drive 1TB,150,189.0,ElectroWare Trading,2026-03-19,28350.0
+PO-0049,ITM-106,Laptop Cooling Pad,500,67.0,ElectroWare Trading,2026-03-21,33500.0
+PO-0049,ITM-101,Wireless Mouse Logitech,100,45.0,ElectroWare Trading,2026-02-14,4500.0
+PO-0049,ITM-114,Cable Organizer Set,200,15.0,ElectroWare Trading,2026-03-16,3000.0
+PO-0049,ITM-109,Webcam HD 1080p,500,156.0,ElectroWare Trading,2026-03-04,78000.0
+PO-0050,ITM-107,External Hard Drive 1TB,50,189.0,ElectroWare Trading,2026-02-28,9450.0
+PO-0051,ITM-109,Webcam HD 1080p,150,156.0,Digital Solutions FZE,2026-03-14,23400.0
+PO-0052,ITM-111,Power Bank 20000mAh,150,95.0,ElectroWare Trading,2026-03-27,14250.0
+PO-0052,ITM-107,External Hard Drive 1TB,100,189.0,Office Depot UAE,2026-02-23,18900.0
+PO-0052,ITM-106,Laptop Cooling Pad,150,67.0,TechSupply LLC,2026-02-14,10050.0
+PO-0052,ITM-108,USB Hub 4-Port,150,34.0,Digital Solutions FZE,2026-03-05,5100.0
+PO-0052,ITM-103,HDMI Cable 3m,50,28.0,Office Depot UAE,2026-03-23,1400.0
+PO-0053,ITM-103,HDMI Cable 3m,500,28.0,ElectroWare Trading,2026-03-01,14000.0
+PO-0053,ITM-109,Webcam HD 1080p,250,156.0,Digital Solutions FZE,2026-03-22,39000.0
+PO-0053,ITM-115,Desk Lamp LED,50,112.0,Digital Solutions FZE,2026-03-16,5600.0
+PO-0053,ITM-112,Screen Protector Pack,500,22.0,Office Depot UAE,2026-03-10,11000.0
+PO-0053,ITM-104,Wireless Keyboard,500,89.0,Digital Solutions FZE,2026-02-27,44500.0
+PO-0054,ITM-107,External Hard Drive 1TB,500,189.0,ElectroWare Trading,2026-03-25,94500.0
+PO-0054,ITM-104,Wireless Keyboard,50,89.0,Digital Solutions FZE,2026-02-28,4450.0
+PO-0054,ITM-109,Webcam HD 1080p,150,156.0,Digital Solutions FZE,2026-03-19,23400.0
+PO-0054,ITM-105,Monitor Stand Adjustable,100,145.0,Office Depot UAE,2026-02-23,14500.0
+PO-0054,ITM-112,Screen Protector Pack,200,22.0,TechSupply LLC,2026-03-06,4400.0
+PO-0055,ITM-106,Laptop Cooling Pad,250,67.0,Office Depot UAE,2026-02-24,16750.0
+PO-0055,ITM-111,Power Bank 20000mAh,200,95.0,Office Depot UAE,2026-03-21,19000.0
+PO-0055,ITM-115,Desk Lamp LED,100,112.0,Office Depot UAE,2026-02-25,11200.0
+PO-0055,ITM-104,Wireless Keyboard,500,89.0,Digital Solutions FZE,2026-02-14,44500.0
+PO-0056,ITM-108,USB Hub 4-Port,200,34.0,TechSupply LLC,2026-03-11,6800.0
+PO-0056,ITM-115,Desk Lamp LED,100,112.0,TechSupply LLC,2026-03-24,11200.0
+PO-0056,ITM-113,Phone Case Universal,200,18.0,Office Depot UAE,2026-02-15,3600.0
+PO-0056,ITM-103,HDMI Cable 3m,100,28.0,Office Depot UAE,2026-03-06,2800.0
+PO-0057,ITM-107,External Hard Drive 1TB,500,189.0,Digital Solutions FZE,2026-03-06,94500.0
+PO-0057,ITM-112,Screen Protector Pack,50,22.0,ElectroWare Trading,2026-03-12,1100.0
+PO-0057,ITM-101,Wireless Mouse Logitech,500,45.0,TechSupply LLC,2026-02-17,22500.0
+PO-0057,ITM-111,Power Bank 20000mAh,100,95.0,TechSupply LLC,2026-03-04,9500.0
+PO-0058,ITM-114,Cable Organizer Set,200,15.0,TechSupply LLC,2026-02-19,3000.0
+PO-0059,ITM-104,Wireless Keyboard,150,89.0,Digital Solutions FZE,2026-02-23,13350.0
+PO-0059,ITM-108,USB Hub 4-Port,200,34.0,TechSupply LLC,2026-03-22,6800.0
+PO-0060,ITM-107,External Hard Drive 1TB,250,189.0,TechSupply LLC,2026-03-18,47250.0
+PO-0060,ITM-111,Power Bank 20000mAh,150,95.0,Digital Solutions FZE,2026-02-21,14250.0
